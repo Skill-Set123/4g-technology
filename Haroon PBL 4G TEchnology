@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn everything about 4G technology, including its advantages, disadvantages, and the future of 4G.">
+    <title>4G Technology - Future of Connectivity</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to an external CSS file for styling -->
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <h1>4GTechInfo</h1>
+            <nav>
+                <ul>
+                    <li><a href="#what-is-4g">What is 4G?</a></li>
+                    <li><a href="#advantages">Advantages of 4G</a></li>
+                    <li><a href="#disadvantages">Disadvantages of 4G</a></li>
+                    <li><a href="#future">Future of 4G</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="hero">
+        <div class="container">
+            <h2>Unlock the Power of 4G Technology</h2>
+            <p>Faster, smarter, and more reliable connectivity for your digital world.</p>
+            <a href="#what-is-4g" class="cta-button">Learn More About 4G</a>
+        </div>
+    </section>
+
+    <!-- What is 4G Section -->
+    <section id="what-is-4g" class="section">
+        <div class="container">
+            <h2>What is 4G?</h2>
+            <p>4G (Fourth Generation) technology is the latest evolution in mobile network connectivity, designed to offer faster internet speeds, enhanced performance, and higher capacity compared to previous generations like 3G.</p>
+            <p>Key Features of 4G include:</p>
+            <ul>
+                <li>High-speed data transfer (up to 1Gbps for stationary users).</li>
+                <li>Low latency for real-time applications like video calls and gaming.</li>
+                <li>Enhanced network coverage, especially in urban and suburban areas.</li>
+            </ul>
+            <img src="4g-speed-comparison.jpg" alt="4G vs 3G speed comparison">
+        </div>
+    </section>
+
+    <!-- Advantages of 4G Section -->
+    <section id="advantages" class="section">
+        <div class="container">
+            <h2>The Advantages of 4G</h2>
+            <ul>
+                <li><strong>Higher Speeds:</strong> 4G offers up to 1Gbps download speeds, making it ideal for streaming HD content, video calls, and more.</li>
+                <li><strong>Improved Voice and Video Calls:</strong> With technologies like VoLTE, voice and video calls are clearer and more reliable.</li>
+                <li><strong>Support for IoT Devices:</strong> 4G’s higher bandwidth supports the growing number of connected devices, enabling smarter homes, vehicles, and gadgets.</li>
+                <li><strong>Better Network Capacity:</strong> 4G provides better connectivity in crowded areas, reducing dropped calls and slow speeds.</li>
+                <li><strong>Mobile Gaming and Streaming:</strong> Mobile gaming and content streaming experiences are improved due to faster speeds and low latency.</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Disadvantages of 4G Section -->
+    <section id="disadvantages" class="section">
+        <div class="container">
+            <h2>The Disadvantages of 4G</h2>
+            <ul>
+                <li><strong>Limited Rural Coverage:</strong> While urban areas have great coverage, rural regions might not have access to 4G networks yet.</li>
+                <li><strong>Higher Data Consumption:</strong> The faster speeds of 4G mean that data consumption increases quickly, leading to faster data plan usage.</li>
+                <li><strong>Battery Drain:</strong> 4G technology can lead to faster battery consumption on mobile devices when using data-intensive applications.</li>
+                <li><strong>Network Congestion:</strong> In areas with high user density, 4G networks may experience congestion, leading to slower speeds.</li>
+                <li><strong>Compatibility Issues:</strong> Some older devices or regions may not support 4G, requiring users to upgrade or wait for better coverage.</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Future of 4G Section -->
+    <section id="future" class="section">
+        <div class="container">
+            <h2>The Future of 4G</h2>
+            <p>4G technology is expected to continue playing a crucial role even with the upcoming 5G network. The future of 4G involves:</p>
+            <ul>
+                <li><strong>Coexistence with 5G:</strong> 4G will work alongside 5G in many regions, providing a reliable backup network.</li>
+                <li><strong>Improved Coverage:</strong> 4G coverage will expand to more rural and remote areas, bridging the digital divide.</li>
+                <li><strong>Support for Emerging Technologies:</strong> 4G will continue to be a backbone for emerging technologies like IoT, smart cities, and connected vehicles.</li>
+                <li><strong>Better Network Optimization:</strong> The efficiency and performance of 4G networks will improve with time, allowing for faster speeds and better service in congested areas.</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 4GTechInfo. All rights reserved.</p>
+            <div>
+                <a href="https://twitter.com" target="_blank">Twitter</a> |
+                <a href="https://facebook.com" target="_blank">Facebook</a> |
+                <a href="https://linkedin.com" target="_blank">LinkedIn</a>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
